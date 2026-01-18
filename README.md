@@ -42,7 +42,7 @@ Globally, farmers lose up to 40% of their crops to pests and diseases annually. 
 3.  **Neural Inference:** 
     *   The **Pest Module** runs the image through a PyTorch model.
     *   The **Plant Module** runs the image through a TensorFlow/Keras CNN (Convolutional Neural Network).
-4.  **Decision Support:** The model outputs a class prediction and a confidence percentage (e.g., "Tomato Late Blight: 98%").
+
 
 ---
 
